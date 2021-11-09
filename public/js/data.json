@@ -1,0 +1,114 @@
+{
+  "works": [
+    {
+      "id": 1,
+      "icon_name": "icon fas fa-link fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    },
+    {
+      "id": 2,
+      "icon_name": "icon fa fa-bolt fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    },
+    {
+      "id": 3,
+      "icon_name": "icon fa fa-tachometer fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    }
+  ],
+
+  "portfolio": [
+    {
+      "id": 1,
+      "image": "/img/Portfolio/portfolio-img1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "/img/Portfolio/portfolio-img2.jpg"
+    },
+    {
+      "id": 3,
+      "image": "/img/Portfolio/portfolio-img3.jpg"
+    },
+    {
+      "id": 4,
+      "image": "/img/Portfolio/portfolio-img4.jpg"
+    },
+    {
+      "id": 5,
+      "image": "/img/Portfolio/portfolio-img5.jpg"
+    },
+    {
+      "id": 6,
+      "image": "/img/Portfolio/portfolio-img6.jpg"
+    },
+    {
+      "id": 7,
+      "image": "/img/Portfolio/portfolio-img4.jpg"
+    },
+    {
+      "id": 8,
+      "image": "/img/Portfolio/portfolio-img8.jpg"
+    }
+  ],
+  "social": [
+    {
+      "id": 1,
+      "icon": "fab fa-facebook fa-lg",
+      "title": "Follow Me on",
+      "body": "Social Facebook"
+    },
+    {
+      "id": 2,
+      "icon": "fab fa-twitter fa-lg",
+      "title": "Tweet Me on",
+      "body": "Social twitter"
+    },
+    {
+      "id": 3,
+      "icon": "fab fa-pinterest fa-lg",
+      "title": "Pin Me on",
+      "body": "Social Pinterest"
+    }
+  ],
+  "profileList": [
+    {
+      "id": 1,
+      "span": "Name",
+      "desc": "Moaaz Gamal"
+    },
+    {
+      "id": 2,
+      "span": "Birthday",
+      "desc": "1/1/1997"
+    },
+    {
+      "id": 3,
+      "span": "Address",
+      "desc": "Aldaaqhlia"
+    },
+    {
+      "id": 4,
+      "span": "Phone",
+      "desc": "02000000000"
+    },
+    {
+      "id": 5,
+      "span": "Email",
+      "desc": "blablabla@gmail.com"
+    },
+    {
+      "id": 6,
+      "span": "Website",
+      "desc": "www.google.com"
+    }
+  ],
+  "barInfo": [
+    { "id": 1, "title": "Html", "perc": "95%" },
+    { "id": 2, "title": "CSS3", "perc": "92%" },
+    { "id": 3, "title": "Js", "perc": "80%" }
+  ]
+}
